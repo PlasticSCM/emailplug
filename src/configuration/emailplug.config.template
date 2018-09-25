@@ -1,0 +1,26 @@
+﻿[
+   {
+      "name":"senderEmail",
+      "displayName":"Sender email",
+      "type":"string",
+      "description":"Email account used to send the emails."
+   },
+   {
+      "name":"senderPassword",
+      "displayName":"Sender password",
+      "type":"password",
+      "description":"Password of the sender email account."
+   },
+   {
+      "name":"smtpServer",
+      "displayName":"SMTP server url",
+      "type":"string",
+      "description":"SMTP server used to send the emails."
+   },
+   {
+      "name":"smtpPort",
+      "displayName":"SMTP server port",
+      "type":"string",
+      "description":"Port of the SMTP server."
+   }
+]

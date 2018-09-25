@@ -1,0 +1,4 @@
+#!/bin/sh
+
+EMAILPLUG_BIN_DIR=`dirname \`readlink -fn $0\``
+exec "/opt/plasticscm5/server/mono_setup" emailplug mono "$EMAILPLUG_BIN_DIR/emailplug.exe" "$@"
