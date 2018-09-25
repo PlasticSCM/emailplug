@@ -38,7 +38,7 @@ and send messages to developers with it.
 When a mergebot requires a Notifier plug to work, you can select a Email Plug Configuration.
 
 <p align="center">
-  <img alt="Issue Tracker plug select" src="https://raw.githubusercontent.com/mig42/emailplug/master/doc/img/notifier-plug-select.png" />
+  <img alt="Issue Tracker plug select" src="https://raw.githubusercontent.com/PlasticSCM/emailplug/master/doc/img/notifier-plug-select.png" />
 </p>
 
 You can either select an existing configuration or create a new one.
@@ -47,7 +47,7 @@ When you create a new Email Plug Configuration, you have to fill in the followin
 
 <p align="center">
   <img alt="Emailplug configuration example"
-       src="https://raw.githubusercontent.com/mig42/emailplug/master/doc/img/configuration-example.png" />
+       src="https://raw.githubusercontent.com/PlasticSCM/emailplug/master/doc/img/configuration-example.png" />
 </p>
 
 ## Email Configuration
